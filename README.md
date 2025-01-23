@@ -27,6 +27,7 @@ Things you need:
 10.Resistors(220 ohms)
 
 
+
 Open your terminal/cmd and add the python idle location as the path.
 
 Install ultralytics using the:
@@ -48,6 +49,7 @@ Install YOLOv8 using:
 ```bash
 pip install yolov8
 ```
+
 
 
 Circuit Connections:
@@ -74,6 +76,7 @@ Circuit Connections:
 
 2. Connect the GND pin on the Arduino to the negative rail of the breadboard.
    
+
 
 The first step in executing this program is to upload it to the Arduino Uno Board. Only after it has been successfully uploaded, you can run the Python Script. So first upload the arduino program and the run the python script.
 
