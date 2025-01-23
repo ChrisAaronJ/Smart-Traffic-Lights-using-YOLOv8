@@ -62,7 +62,7 @@ Circuit Connections:
 
 1. Anode (longer leg): Connect to digital pin 13 on the Arduino.
 
-2.Cathode (shorter leg): Connect to one end of another 220Ω resistor.
+2. Cathode (shorter leg): Connect to one end of another 220Ω resistor.
 
 3. The other end of the resistor connects to the GND rail on the breadboard.
 
