@@ -4,7 +4,7 @@ This project is made to give a solution the traffic. It uses a camera to count t
 To run this program you'll need to have packeges installed. These packages include, ultralytics, opencv, tensorflow and YOLOv8 from the ultralytics library.
 This is the second version of this,the first version used an ESP32-CAM as the camera, this version uses the default webcam of the pc you are using.
 
-Things need:
+Things you need:
     1.Arduino UNO
     2.Jumper Wires
     3.Python IDlE
