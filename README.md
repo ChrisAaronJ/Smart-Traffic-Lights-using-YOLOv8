@@ -15,3 +15,27 @@ Things you need:
     8.Bread Board
     9.LED's(Red,Green, Yellow if wanted)
     10.Resistors(220 ohms)
+
+Open your terminal/cmd and add the python idle location as the path.
+
+Install ultralytics using the:
+```bash
+pip install ultralytics
+```
+
+Intall TesnorFlow using:
+```bash
+pip install tensorflow
+```
+
+Install OpenCv using:
+```bash
+pip install opencv-python
+```
+
+Install YOLOv8 using:
+```bash
+pip install yolov8
+```
+
+
